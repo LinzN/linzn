@@ -22,7 +22,7 @@
 | <img src="https://raw.githubusercontent.com/FreeX-Studio/Freex-Media-Server/main/docs/brand/freex-app-icon.svg" width="28"> | [**FreeX**](https://github.com/FreeX-Studio) | Media server for movies and TV shows, with apps for the browser, TV, phone, desktop and Kodi | Linux, Windows, TV, Android, iOS · [freex.mirranet.de](https://freex.mirranet.de) |
 | <img src="https://raw.githubusercontent.com/Ondura-Suite/Ondura-Core/main/apps/ondura/public/ondura.svg" width="28"> | [**Ondura**](https://github.com/Ondura-Suite) | Office suite: mail, documents, spreadsheets, presentations, PDFs, notes and more | Windows, macOS, Linux, Android · [ondura.mirranet.de](https://ondura.mirranet.de) |
 | <img src="https://raw.githubusercontent.com/Parla-Studio/parla/main/docs/logo.svg" width="28"> | [**Parla**](https://github.com/Parla-Studio) | Language learning in short lessons, without ads or gamification | Android, iOS, Windows, Linux |
-| <img src="https://raw.githubusercontent.com/LinzN/Obsidia/main/assets/logo.svg" width="28"> | [**Obsidia**](https://github.com/LinzN/Obsidia) | Firmware tool for iPhone and iPad: shows signed versions, downloads and flashes them | Windows, macOS, Linux |
+| <img src="https://raw.githubusercontent.com/LinzN/Obsidia/main/assets/logo.svg" width="28"> | [**Obsidia**](https://github.com/LinzN/Obsidia) | Firmware tool for iPhone and iPad: shows signed versions, downloads and flashes them | Windows, macOS, Linux · [Microsoft Store](https://apps.microsoft.com/detail/9nsg9p945vbz) |
 
 ## Libraries and bridges
 
